@@ -145,5 +145,4 @@ static
 .*
 titanic/.*
 exploration/.*
-exploration/data/.*
 !/.gitignore
